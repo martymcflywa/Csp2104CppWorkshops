@@ -27,6 +27,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "M09_Class_FeaturesDesign", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "M10_Inheritance", "M10_Inheritance\M10_Inheritance.vcxproj", "{31D53E5D-9955-426F-934D-50443525DA40}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "M11_ExceptionHandling", "M11_ExceptionHandling\M11_ExceptionHandling.vcxproj", "{B470B56E-BE66-4B98-836C-9476DD9CAB74}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -131,6 +133,14 @@ Global
 		{31D53E5D-9955-426F-934D-50443525DA40}.Release|x64.Build.0 = Release|x64
 		{31D53E5D-9955-426F-934D-50443525DA40}.Release|x86.ActiveCfg = Release|Win32
 		{31D53E5D-9955-426F-934D-50443525DA40}.Release|x86.Build.0 = Release|Win32
+		{B470B56E-BE66-4B98-836C-9476DD9CAB74}.Debug|x64.ActiveCfg = Debug|x64
+		{B470B56E-BE66-4B98-836C-9476DD9CAB74}.Debug|x64.Build.0 = Debug|x64
+		{B470B56E-BE66-4B98-836C-9476DD9CAB74}.Debug|x86.ActiveCfg = Debug|Win32
+		{B470B56E-BE66-4B98-836C-9476DD9CAB74}.Debug|x86.Build.0 = Debug|Win32
+		{B470B56E-BE66-4B98-836C-9476DD9CAB74}.Release|x64.ActiveCfg = Release|x64
+		{B470B56E-BE66-4B98-836C-9476DD9CAB74}.Release|x64.Build.0 = Release|x64
+		{B470B56E-BE66-4B98-836C-9476DD9CAB74}.Release|x86.ActiveCfg = Release|Win32
+		{B470B56E-BE66-4B98-836C-9476DD9CAB74}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
